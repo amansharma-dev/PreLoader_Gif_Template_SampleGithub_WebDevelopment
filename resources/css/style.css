@@ -1,0 +1,160 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    background-color:#000;
+    text-rendering: optimizeLegibility;
+}
+
+.row{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+section{
+    padding: 0px 0;
+}
+
+
+
+header{
+    background-image: url(image-css/1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 100vh;
+
+}
+
+/*
+.section-1{
+    height: 100vh;
+    background-image: url(image-css/img2.png);
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+*/
+
+.section-1{
+    background-image: url(image-css/2.png);
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.section-2{
+    background-image: url(image-css/3.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.section-3{
+    background-image: url(image-css/4.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.section-4{
+    background-image: url(image-css/5.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-5{
+    background-image: url(image-css/6.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-6{
+    background-image: url(image-css/7.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-7{
+    background-image: url(image-css/8.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-8{
+    background-image: url(image-css/9.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-9{
+    background-image: url(image-css/10.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-10{
+    background-image: url(image-css/11.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-11{
+    background-image: url(image-css/12.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-12{
+    background-image: url(image-css/13.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}.section-13{
+    background-image: url(image-css/14.png);
+    background-attachment: scroll;
+        background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+
+.loader{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 999;
+}
+
+.loader .inner{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/gif-earth.gif);
+    background-repeat: no-repeat;
+    background-position: center;
